@@ -1,0 +1,34 @@
+[
+    {
+        "sku": "8uc8so",
+        "productName": "Bedsheet Queen Size",
+        "dateCreated": "2022-01-04",
+        "inventoryAvailable": "300",
+        "price": "60",
+        "warehouseLocation": "Mississauga, Ontario"
+    },
+    {
+        "sku": "RzDK3d",
+        "productName": "Hand Towel",
+        "dateCreated": "09/12/2021",
+        "inventoryAvailable": 300,
+        "price": 9.99,
+        "warehouseLocation": "Brampton, Ontario"
+    },
+    {
+        "sku": "DDoiaM",
+        "productName": "Pillow Covers",
+        "dateCreated": "21/12/2021",
+        "inventoryAvailable": 1000,
+        "price": 14.99,
+        "warehouseLocation": "Burlington, Ontario"
+    },
+    {
+        "sku": "BbFL0e",
+        "productName": "MacBook Air",
+        "dateCreated": "2022-01-02",
+        "inventoryAvailable": "4000",
+        "price": "2000",
+        "warehouseLocation": "Burlington, Ontario"
+    }
+]
